@@ -15,7 +15,7 @@ chmod u+x setup.sh
 nacreousdawn596@nacreousdawn596-satellitel305:~$ cd web-project/
 nacreousdawn596@nacreousdawn596-satellitel305:~/web-project$ ls
 index.html  main.js  style.css
-nacreousdawn596@nacreousdawn596-satellitel305:~/web-project$ prineo index.html 
+nacreousdawn596@nacreousdawn596-satellitel305:~/web-project$ prineo 
  * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.
    Use a production WSGI server instead.
